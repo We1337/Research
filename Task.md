@@ -4,7 +4,7 @@ kanban-plugin: basic
 
 ---
 
-## Task
+## Monday
 
 - [ ] Morning Train
 - [ ] Work with Project
@@ -14,12 +14,59 @@ kanban-plugin: basic
 - [ ] Evening Train
 
 
-## Process
+## Tuesday
+
+- [ ] Morning Train
+- [ ] Work with Project
+- [ ] Go to Uni
+- [ ] Course work
+- [ ] Learn Turkish
+- [ ] Evening Train
 
 
+## Wednesday
 
-## Done
+- [ ] Morning Train
+- [ ] Work with Project
+- [ ] Go to Uni
+- [ ] Course work
+- [ ] Learn Turkish
+- [ ] Evening Train
 
+
+## Thursday
+
+- [ ] Morning Train
+- [ ] Work with Project
+- [ ] Go to Uni
+- [ ] Course work
+- [ ] Learn Turkish
+- [ ] Evening Train
+
+
+## Friday
+
+- [ ] Morning Train
+- [ ] Work with Project
+- [ ] Go to Uni
+- [ ] Course work
+- [ ] Learn Turkish
+- [ ] Evening Train
+
+
+## Saturday
+
+- [ ] Morning Train
+- [ ] Work with Project
+- [ ] Go to Uni
+- [ ] Course work
+- [ ] Learn Turkish
+- [ ] Evening Train
+
+
+## Sunday
+
+- [ ] 13:00 to 16:00 Sleep
 
 
 ***

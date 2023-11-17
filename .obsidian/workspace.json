@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c1aa768f3b5fb7b4",
+        "id": "8f0876552dde0dd5",
         "type": "tabs",
         "children": [
           {
-            "id": "82b97dfe4160926a",
+            "id": "785d0471bd3b1066",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task.md"
+                "file": "Cyber Security/Киберқауіпсіздік.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "97fe7f7758391590",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Task.md",
+                "file": "Cyber Security/Киберқауіпсіздік.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Task.md",
+                "file": "Cyber Security/Киберқауіпсіздік.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Task.md"
+                "file": "Cyber Security/Киберқауіпсіздік.md"
               }
             }
           }
@@ -144,10 +147,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82b97dfe4160926a",
+  "active": "785d0471bd3b1066",
   "lastOpenFiles": [
-    "2023-W46.md",
+    "Желілік қауіпсіздік моделі.md",
+    "Cyber Security/Киберқауіпсіздік.md",
+    "Қорғаныс механизмдерінің түрлері.md",
+    "Cyber Security/Capture8.PNG",
+    "Ақпараттық қауіпсіздік саласындағы белсенді және пассивті шабуылдар.md",
+    "Cyber Security/Capture7.PNG",
+    "Cyber Security/Capture6.PNG",
+    "Cyber Security/Capture5.PNG",
+    "Cyber Security/Capture4.PNG",
+    "Cyber Security/Capture3.PNG",
+    "Cyber Security/Capture2.PNG",
+    "OSI қауіпсіздік архитектурасы.md",
+    "Cyber Security/Capture1.PNG",
+    "Cyber Security",
     "Task.md",
+    "2023-W46.md",
     "Daily Task.md",
     "README.md",
     "Tasks Plugin - Review and check your Statuses 2023-11-16 07-33-23.md",
