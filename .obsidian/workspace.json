@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Веб-сайт.md",
-                "mode": "preview",
+                "file": "Cyber Security/Киберқауіпсіздік.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Веб-сайт.md",
+                "file": "Cyber Security/Киберқауіпсіздік.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Веб-сайт.md",
+                "file": "Cyber Security/Киберқауіпсіздік.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Веб-сайт.md"
+                "file": "Cyber Security/Киберқауіпсіздік.md"
               }
             }
           }
@@ -149,10 +149,14 @@
   },
   "active": "785d0471bd3b1066",
   "lastOpenFiles": [
+    "Криптография.md",
+    "Cyber Security/Capture14.PNG",
+    "Cyber Security/Киберқауіпсіздік.md",
+    "Ақпараттық қауіпсіздік принциптері.md",
+    "Cyber Security/Capture13.PNG",
+    "Веб-сайт.md",
     "Cyber Security/Capture12.png",
     "Cyber Security/Unconfirmed 927724.~",
-    "Cyber Security/Киберқауіпсіздік.md",
-    "Веб-сайт.md",
     "Веб негіздері.md",
     "Wireless LAN негіздері.md",
     "Желіге қосылу.md",
@@ -167,9 +171,6 @@
     "Cyber Security/Capture7.PNG",
     "Cyber Security/Capture6.PNG",
     "Cyber Security/Capture5.PNG",
-    "Cyber Security/Capture4.PNG",
-    "Cyber Security/Capture3.PNG",
-    "Cyber Security/Capture2.PNG",
     "OSI қауіпсіздік архитектурасы.md",
     "Cyber Security",
     "2023-W46.md",
