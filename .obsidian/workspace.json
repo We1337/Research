@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Киберқауіпсіздік.md",
-                "mode": "source",
+                "file": "Веб-сайт.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Киберқауіпсіздік.md",
+                "file": "Веб-сайт.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Киберқауіпсіздік.md",
+                "file": "Веб-сайт.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Киберқауіпсіздік.md"
+                "file": "Веб-сайт.md"
               }
             }
           }
@@ -149,8 +149,11 @@
   },
   "active": "785d0471bd3b1066",
   "lastOpenFiles": [
-    "Веб негіздері.md",
+    "Cyber Security/Capture12.png",
+    "Cyber Security/Unconfirmed 927724.~",
     "Cyber Security/Киберқауіпсіздік.md",
+    "Веб-сайт.md",
+    "Веб негіздері.md",
     "Wireless LAN негіздері.md",
     "Желіге қосылу.md",
     "Cyber Security/Capture11.PNG",
